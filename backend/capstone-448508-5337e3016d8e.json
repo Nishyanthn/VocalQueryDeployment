@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "capstone-448508",
+  "private_key_id": "5337e3016d8ed47cf43dccd29baad4d842f753de",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC1B5pOBMR4zPwp\nKLtYroseXFP7lml2b/goF2fw7Qy6T4EIpThUXlJ9PNqPqPJfHkm2HAl25Zbs6RO0\ncsoyMMtNktuBld1kTvznmKBNSxgd2ZugTaAkVRoMX6TOXNaXH93RmfeT6UeStbrL\nsbXspknpwo+kfwNGhb4x1+X0LNsUfq+3mjNsbiVgBABJfT6fNBqUOVrzstjJLMeL\nJHlbNPhJVio9FmgVuTQwpEVLd2kFpDD+GJV+1r+mwpvzV3nDKQ3csy2fDZ75txVN\nYCByxSTFI/ee8IOrl2jnzUFaihp3G75QVyTrjGGjhP619iHbm3L1qi3t4a1bYVlw\nQhPPiXBNAgMBAAECggEAMr0JRiG28Ya+jEiyzcXKDz3gegzrzTrPymjZBKFkJln/\nN+2a7qarJxflyEsZd4h1L3oHOxBZb1haYgKkYlHjwX/OTzEyZplu7/iKwW8xOLiT\nkmf/YP+LN/mcpwxFRwEy+jrVtdq16UxPKSVLcKMg50hVW00QHXWB29V/yaLC2qi2\n2L4bwGgeD9jC6DCu6NWUdt6WlCLto+KDZtzyhG0+kucW/33IIronaBDuh+hB4uQj\n0EHvJognrF+d/I6X74y5FemRkJ9FjYYBwAeQlUa1p12zCGnEwaLQ1ZUCIh82lI8l\nFExnlw2nY0gassSlRqTmdp+IFf52iAd3LBlUlvTwnwKBgQD//k3DTIz3+n0RcePP\ny3AnoAcRIH8RRjoRvyFmjMqSJTy4j3hNOd3PAFZ6/vZqE/wi8v+8+zVCAC2hGfla\nqyg8MYddNhJ85bvfcwsWKESMEaf7pGH1sdwpsQqPCgxS6iYeAE3FtEmowKibcU26\nEP1r/TCE6SdOj4TELHvWX6KaRwKBgQC1CM1h3esGMU0Oc6ZLmC9wsX5idJISlAog\nipgjJGG68CPtDbHYQt4aqHTHAUhL5P6SghDjmflxmhOVq/XKN02jKMhFJJaBmPPT\ns6OStShJSZ8kO+HDM64ZDlwRtCgAg5AYDWXEp/xiK/I0zeke7qmimopjeRReFCU7\nu7HFYXEWywKBgFl8DrjPQJPKlv+LHURc6/aeBPpirqheMRxVAJr1ajZOF/y4AiiU\nqsmaZ6CVEZQhKkkZQnZQJdzNbSXci4K7Q9ROx++4YBwSvmqsr1pudw+zeFIJs0iM\nhNZ6EaPQsmAlg2+HUahjjkAUIJw9rhr1p3ChT92WFuxqVNGybxOP2KovAoGACtHs\n3JWT73nQ3jVBUjFVXInvQNkwxdV9SXafIzKQeMjTjN6Nq5xLhBJfcGl+NbMJGB6X\n/dJ9GzIXS5HMjfqCNGdCmQdXy4UlxZhuBV24e7Dfxx2hH7aeCDdYf2JiJa23Vgiu\n9XMI3aE8x7Uq4sNm9iYAcXOSKRFRLGHKfT6WsMMCgYA/kN1n2AUQtH4YAGLXHY8S\n//3C8TRtIpyjjfOWmg5ZQZjbs+LLL5TVx6hq1FZEH8p4M3zP5rwMpllMvjKKupJy\n+fTqK42uQ0nkacm0xOf4oNbnj2XgQqGrbN663mU+iuRLf+KdoAktc+EpjZSl8XNj\ncv8sQQMDAhaOUvAjFbnT3g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gemini-api@capstone-448508.iam.gserviceaccount.com",
+  "client_id": "107418116174785498965",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gemini-api%40capstone-448508.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

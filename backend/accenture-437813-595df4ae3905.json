@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "accenture-437813",
+  "private_key_id": "595df4ae39052c8fd34e74aad344bde2150ed182",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjBitmibAZwd6q\nnZ8rZuQ+c0qft7bmoDwIOkMBBpC0tWlcZDjMZEGR47HJEysQv8x1AJqrKRUaSZSR\nC7jW3hniUEQlWsh8OcLHJVygi52S5bLnq7n6jxJycOkR1dIef28Z5KJAq6bGi4el\nxWhZyUAbOng0+wYzTfD2ujX5aqJDxWXB2W7yqM8zXnwAmmlvgb3zfZ8og3OASSPp\nJQ4xSOOXP7bGEHD/e3QDI6nkXlfJhq8jCF1vj1cAvOcaF/FZ3FLjBvju+QwkkCx3\nzzZhVtDNgWwHimZ2GGN1P4g3NOHjtBk6yqUGLHfBYMTKGFRHQXuqUjLouAnOgUn+\n6pl36JZFAgMBAAECggEAJsn9gqDJO1+zJOJrMG8DaM6S12zlgntmvUhrj+9pd+3g\nO2EHWK6UIWvNbfv3F72jHsW9h3M3d7FBPb/Nw6ZF/2C8ziyLHm+55huALhz6Ka0o\nw9HK5xCqwXsXIazAGYyVuVH6vyt4e65QYMOXQCHP9IqVdnmx8HwflP0agZV7NWd9\ntHGxg2MvdBlNTJwlT87pQ1DwEBgUNTgRI6hCW4AYmVWNocD6Mlfuk5yKtJMWZObE\n068JdU1aDddCybmZsy9Tt0PDyD04a7YJc9jvtqENIOw/WYYvaiMygaj+kgjfE04d\nZmFojmshp6Oz/faGASbGh67EQOGWw0PEzEt3mfUJIQKBgQDUTN2EFTp0h8wXUVhy\nFm0SXiqkzMMWAwHDml6jEfAI+QCqINr5EKeLuFrmx2hinJlj15325RUPNXoL/TuV\nuIpSQ4lwqslGPk5uKL0HH4ixKrLaqLQcw5F0nhLXg+5mI9PdByipNzcQHJmO3Ar3\nxMz9XDh1KcWaR2RfOZ6W2EEAFQKBgQDElLQcGTgIWaeQl/RbDLzSObSJ3jDuqS6M\nNA7TaGVOAcGKjzdj3a+q/4jWRRy4ECMKOei2G+lglr7zXGvgntD3Nuns5zEiDtUV\niwL9VOK9PZKqZNQnmADgdiQsl2iDpKtvNa4I6YCBdpt/e+VJqwiUsMMu36khhjvv\np1sh0T+ZcQKBgBQ6DpDbBOq9VXCTS33zLQkm96Ej8SJTvwNH3eRjfR8dujZ7UuGP\n+KaTNfXu4b8jdGnSzTYMtWjxi2NBCUBGiMc1sA6P9wU+QnK0Zu4azwcyLkAu+poS\n9/TIarsl0rzghPr2B6W3oQNj9i1qQZFBqtYoxyhChpUgYCvCbZ2plOfRAoGAd+14\njAPeqUl47r+ldb6pm19VAx8onxFbsnE38kWoOBTeLFf/JM/kEeBfbMkxIiHGHsEB\ndchFcoXE7NcfgSOivI8l2z+YO/zshn4OTtrwkR71UTq+K4GSV13757BfNKDLbcdD\n62/41AK2DupZEb5kN8I28WvF1Qv9mNFyyYjM0iECgYEAsWTenoDV4KdKxRZXTB9C\nv7hQwhaCIz/Tg8izUVeeIgBMreGzbOSvnrLIYRsFCCOV5mLZjwc7EL+Eh273G8A4\nOezHSWq+a4auVWWH8yun55klu4FWo1KCeLN1n31W9zXtsx7998oyGmLH5ow2lMPm\nFNwSFsAMCxgYT9Cklf2YT5w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-to-text-service-account@accenture-437813.iam.gserviceaccount.com",
+  "client_id": "113153500958222682179",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-to-text-service-account%40accenture-437813.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

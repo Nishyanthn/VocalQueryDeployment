@@ -1,0 +1,166 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .app {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+   
+  }
+  
+  
+  
+  /* Navbar */
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #1e1e1e;
+  }
+  
+  
+  .nav-logo {
+    font-size: 2rem;
+    font-weight: bold;
+    animation: rainbow 3s linear infinite;  /* Apply rainbow animation */
+  }
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+  }
+  
+  .nav-links li {
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-links li:hover {
+    color: #ffa500;
+  }
+  
+  /* Main Section */
+  .main-section {
+    text-align: center;
+    margin-top: 4rem;
+    flex-grow: 1;
+  }
+  
+  .heading {
+    font-size: 3rem;
+    font-weight: bold;
+    animation: fadeIn 2s ease-in-out;
+  }
+  
+  .intro {
+    font-size: 1.2rem;
+    margin: 1.5rem 2rem;
+    animation: slideIn 2.5s ease-in-out;
+    color: rgba(255, 255, 255, 0.7);  /* Lighten the text to make it duller */
+    font-weight: normal;
+  }
+  
+  /* Button Section */
+  .button-section {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    margin: 6rem auto;
+    
+  }
+  
+  .button-box {
+    text-align: center;
+    max-width: 300px;
+  }
+  
+  .btn {
+    
+    background-color: #ffa500;
+    color: #000000;
+    border: none;
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    transform: scale(1.1);
+    background-color: #e69500;
+  }
+  
+  .button-box p {
+    margin-top: 1rem;
+    font-size: 1rem;
+    animation: fadeIn 3s ease-in-out;
+    color: rgba(255, 255, 255, 0.7);  /* Lighten the text to make it duller */
+    font-weight: normal;  /* Reduce the weight of the text */
+  }
+  
+  /* Footer */
+  .footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #1e1e1e;
+    font-size: 0.9rem;
+    margin-top: auto;
+    width: 100%; 
+    
+  }
+  .navbar .nav-links a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .footer p {
+    margin: 0.5rem;
+  }
+  
+  /* Animations */
+  @keyframes rainbow {
+    0% { color: red; }
+    14% { color: orange; }
+    28% { color: yellow; }
+    42% { color: green; }
+    57% { color: rgb(122, 224, 209); }
+    71% { color: rgb(137, 105, 158); }
+    85% { color: violet; }
+    100% { color: red; }
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes slideIn {
+    0% {
+      transform: translateY(20px);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  
+  

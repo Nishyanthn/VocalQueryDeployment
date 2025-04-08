@@ -1,0 +1,53 @@
+/* src/components/ContactUs.css */
+
+.contact-page {
+  background-color: #000; /* Black background */
+  color: orange; /* Orange text */
+  padding: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  height: 100vh;
+}
+
+.contact-title {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 30px;
+}
+
+.contact-container {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #111;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px orange;
+  font-size: 1.2rem;
+}
+
+.contact-container a {
+  color: orange;
+  text-decoration: none;
+}
+
+.contact-container a:hover {
+  text-decoration: underline;
+}
+
+
+.contact-icons {
+  margin-top: 1rem;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.social-icon {
+  color: orange;
+  font-size: 2.5rem;
+  transition: transform 0.2s ease;
+}
+
+.social-icon:hover {
+  transform: scale(1.2);
+  color: white;
+}
