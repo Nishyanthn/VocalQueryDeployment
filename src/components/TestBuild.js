@@ -275,7 +275,7 @@ const BuildDB = () => {
       </div>
 
       {/* Table Selection Dropdown */}
-      {selectedDatabase && (
+      {/* {selectedDatabase && (
         <div className="table-selection-container">
           <label>
             <strong>Select Table:</strong>
@@ -292,7 +292,7 @@ const BuildDB = () => {
             ))}
           </select>
         </div>
-      )}
+      )} */}
 
       {/* Speech to Text Button */}
       <div className="mic-button-container">

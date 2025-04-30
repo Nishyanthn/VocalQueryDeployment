@@ -279,6 +279,9 @@ engine = create_engine(connection_string)
 # Initialize the SQLDatabase object
 db = SQLDatabase(engine=engine)
 
+# api_key = os.getenv("GEMINI_API_KEY")  # Use environment variable for security
+# genai.configure(api_key=api_key)
+
 genai.configure(api_key="AIzaSyCF6vHl1Sp1I0JUmiR8y7FBCkRh55LJzHo")
 
 toolkit = SQLDatabaseToolkit(db=db, llm=ChatGoogleGenerativeAI(model="gemini-1.5-flash-latest", temperature=0))
