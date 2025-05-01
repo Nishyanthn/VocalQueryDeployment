@@ -4,7 +4,7 @@ psycopg2==2.9.10
 python-dotenv==1.0.1
 google-generativeai==0.8.4
 langchain-community==0.3.19
-langchain-google-genai==2.1.2
+langchain-google-genai==2.1.1
 langchain-core==0.3.50
 langchain-experimental==0.3.4
 langgraph==0.3.24
@@ -12,4 +12,4 @@ langgraph-checkpoint==2.0.24
 langgraph-prebuilt==0.1.7
 sqlalchemy==2.0.39
 typing-extensions==4.13.0
-google-ai-generativelanguage>=0.6.16,<0.7.0
+google-ai-generativelanguage>=0.6.15
