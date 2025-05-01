@@ -12,4 +12,4 @@ langgraph-checkpoint==2.0.24
 langgraph-prebuilt==0.1.7
 sqlalchemy==2.0.39
 typing-extensions==4.13.0
-google-ai-generativelanguage>=0.6.15
+google-ai-generativelanguage
